@@ -1,7 +1,7 @@
 # Taller-CV
 
- ##Problema 1
-###Desarrollar un algoritmo para calcular el area de un triangulo
+##Problema 1
+Desarrollar un algoritmo para calcular el area de un triangulo
 
 ## Este algoritmo recibe como entrada:
 - Base
